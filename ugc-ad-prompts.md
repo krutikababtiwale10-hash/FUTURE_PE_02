@@ -19,6 +19,14 @@ Start with a strong hook, describe the skin problem, explain how the product hel
 Keep it under 20 seconds speaking time.
 
 **AI Output:**
+Hook:
+“Why is my skin glowing all of a sudden?!”
+
+Script:
+I used to struggle with dry, dull skin that always looked tired no matter what I tried. Two weeks ago, I started using GlowUp Skincare Cream, and I can honestly see the difference. My skin feels more hydrated, softer, and it has this natural glow without feeling greasy. It’s super lightweight and absorbs really fast too.
+
+CTA:
+If your skin feels dry or lifeless, you should definitely try this — check it out from the link in bio!
 
 ---
 
@@ -34,6 +42,14 @@ Talk about how your skin looked dull and tired before, then explain how GlowUp S
 Keep the tone casual, happy, and honest. Include a hook and end with a call to action.
 
 **AI Output:**
+Hook:
+“Okay but look at my skin before and after using this…”
+
+Script:
+A few weeks ago, my skin looked dull and uneven, and I felt like nothing was working. I started applying GlowUp Skincare Cream daily, and now my skin looks brighter, more even, and naturally glowing. It feels so much healthier and smoother than before. I actually feel more confident going out without heavy makeup now.
+
+CTA:
+If you want that natural glow too, you need to try this cream — it’s honestly a game changer!
 
 ---
 
@@ -49,4 +65,12 @@ Mention using GlowUp Skincare Cream as the final step and describe how it makes 
 Keep it friendly and natural. Start with a hook and end with a call to action.
 
 **AI Output:**
+Hook:
+“Come do my simple night skincare routine with me!”
+
+Script:
+After cleansing and toning, the last step in my routine is GlowUp Skincare Cream. It feels so soft and soothing on my skin, and by morning my face looks fresh and glowing. I love that it hydrates overnight without feeling heavy. It’s honestly become my favorite part of my night routine.
+
+CTA:
+If you’re building a simple routine, this cream is a must-try — grab yours from the link in bio!
 
