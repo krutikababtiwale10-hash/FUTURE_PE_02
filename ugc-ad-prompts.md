@@ -1,4 +1,25 @@
 # Task 2 – AI UGC Ad Content
+---
+
+## Hook Variations for UGC Ads
+
+### Prompt Strategy:
+Hooks are the most important part of short-form ads. This prompt generates multiple scroll-stopping opening lines to test which grabs attention best.
+
+**Prompt:**
+Generate 10 short, attention-grabbing hooks for a UGC-style Instagram ad about a skincare cream that improves glow and hydration. Keep them casual, relatable, and curiosity-driven.
+
+**AI Output:**
+1. “Why is my skin glowing like this lately?”
+2. “I didn’t expect this cream to actually work…”
+3. “Okay but this changed my skincare game.”
+4. “My skin hasn’t looked this good in months.”
+5. “I almost didn’t try this — big mistake.”
+6. “POV: You finally find a cream that works.”
+7. “No filter, just better skin.”
+8. “I’m lowkey obsessed with this cream.”
+9. “This is what healthy skin actually looks like.”
+10. “I get compliments on my skin every day now.”
 
 ## Product:
 GlowUp Skincare Cream
